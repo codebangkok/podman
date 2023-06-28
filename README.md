@@ -3,11 +3,12 @@
 Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment.
 
 ### Website
-* [podman](https://podman.io)
-* [podman desktop](https://podman-desktop.io)
-* [docker](https://www.docker.com)
+* [Podman](https://podman.io)
+* [Podman Desktop](https://podman-desktop.io)
+* [Docker](https://www.docker.com)
 * [Cloud Native Computing Foundation](https://www.cncf.io)
 * [Podman Cheat Sheet](https://developers.redhat.com/cheat-sheets/podman-cheat-sheet)
+* [Podman Compose](https://github.com/containers/podman-compose)
 
 ```
 brew install podman
